@@ -6,5 +6,5 @@
 
 Ссылка на wokwi: https://wokwi.com/projects/445809636664343553
 
-<img src="https://github.com/user-attachments/assets/9d41b6a7-d4ee-48cb-ba66-89a9fd05699f" width="400">
+<img src="https://github.com/user-attachments/assets/510fb56e-85e5-4a99-be1e-4d1b84d7d844" width="600">
 
